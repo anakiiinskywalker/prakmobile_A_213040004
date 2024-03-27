@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tickets App</string>
+
+    <string name="add_film_name">Add Film Name</string>
+    <string name="film_name">Film Name</string>
+    <string name="seat">Seat</string>
+    <string name="category">Category</string>
+    <string name="price">Price</string>
+    <string name="no_ticket">No Tickets</string>
+    <string name="text_empty_content">No Ticket Found</string>
+    <string name="add_ticket">Add Ticket</string>
+    <string name="update_ticket">Update Ticket</string>
+    <string name="delete_ticket">Delete Ticket</string>
+    <string name="all_tickets_title">Tickets List</string>
+
+</resources>
